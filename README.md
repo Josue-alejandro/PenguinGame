@@ -1,5 +1,7 @@
 <h1>README - PenguinGame</h1>
 
+ ![parte delantera](captura.png)
+
 Este es un pequeño proyecto de juego desarrollado con HTML, CSS y JavaScript. A continuación, se proporciona una breve descripción del juego:
 Descripción del Juego
 
